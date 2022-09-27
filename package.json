@@ -1,0 +1,22 @@
+{
+  "name": "@prakashseervi/gitnpmpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/prakashseervi/gitnpmpackage.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/prakashseervi/"
+  },
+  "author": "Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashseervi/prakashseervi/issues"
+  },
+  "homepage": "https://github.com/prakashseervi/prakashseervi#readme"
+}
